@@ -1,0 +1,57 @@
+2018-11-21 10:08:16  [ main:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2018-11-21 10:08:16  [ main:99 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Wed Nov 21 10:08:16 CST 2018]; root of context hierarchy
+2018-11-21 10:08:16  [ main:133 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-config.xml]
+2018-11-21 10:08:16  [ main:373 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mybatis.xml]
+2018-11-21 10:08:16  [ main:570 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-11-21 10:08:16  [ main:580 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:08:16  [ main:629 ] - [ INFO ]  No TaskExecutor bean found for async annotation processing.
+2018-11-21 10:08:17  [ main:1766 ] - [ INFO ]  {dataSource-1} inited
+2018-11-21 10:08:18  [ main:2570 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 2569 ms
+2018-11-21 10:08:18  [ main:2687 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization started
+2018-11-21 10:08:18  [ main:2690 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:08:18 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:08:18  [ main:2691 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mvc.xml]
+2018-11-21 10:08:18  [ main:2808 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:08:19  [ main:2896 ] - [ INFO ]  Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2018-11-21 10:08:19  [ main:3463 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:08:18 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:08:19  [ main:3546 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:08:18 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:08:19  [ main:3797 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization completed in 1109 ms
+2018-11-21 10:15:10  [ Thread-2:414538 ] - [ INFO ]  Closing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:08:18 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:15:10  [ Thread-2:414580 ] - [ INFO ]  Closing Root WebApplicationContext: startup date [Wed Nov 21 10:08:16 CST 2018]; root of context hierarchy
+2018-11-21 10:15:10  [ Thread-2:414586 ] - [ INFO ]  {dataSource-1} closed
+2018-11-21 10:15:35  [ main:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2018-11-21 10:15:35  [ main:103 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Wed Nov 21 10:15:35 CST 2018]; root of context hierarchy
+2018-11-21 10:15:35  [ main:138 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-config.xml]
+2018-11-21 10:15:35  [ main:407 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mybatis.xml]
+2018-11-21 10:15:36  [ main:589 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-11-21 10:15:36  [ main:597 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:15:36  [ main:658 ] - [ INFO ]  No TaskExecutor bean found for async annotation processing.
+2018-11-21 10:15:37  [ main:1803 ] - [ INFO ]  {dataSource-1} inited
+2018-11-21 10:15:38  [ main:2678 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 2678 ms
+2018-11-21 10:15:38  [ main:2793 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization started
+2018-11-21 10:15:38  [ main:2796 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:15:38 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:15:38  [ main:2797 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mvc.xml]
+2018-11-21 10:15:38  [ main:2932 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:15:38  [ main:3038 ] - [ INFO ]  Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2018-11-21 10:15:39  [ main:3552 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:15:38 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:15:39  [ main:3645 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:15:38 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:15:39  [ main:3879 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization completed in 1086 ms
+2018-11-21 10:17:21  [ Thread-2:105806 ] - [ INFO ]  Closing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:15:38 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:17:21  [ Thread-2:105840 ] - [ INFO ]  Closing Root WebApplicationContext: startup date [Wed Nov 21 10:15:35 CST 2018]; root of context hierarchy
+2018-11-21 10:17:21  [ Thread-2:105863 ] - [ INFO ]  {dataSource-1} closed
+2018-11-21 10:17:38  [ main:0 ] - [ INFO ]  Root WebApplicationContext: initialization started
+2018-11-21 10:17:38  [ main:128 ] - [ INFO ]  Refreshing Root WebApplicationContext: startup date [Wed Nov 21 10:17:38 CST 2018]; root of context hierarchy
+2018-11-21 10:17:38  [ main:192 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-config.xml]
+2018-11-21 10:17:39  [ main:392 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mybatis.xml]
+2018-11-21 10:17:39  [ main:612 ] - [ INFO ]  Loading properties file from class path resource [jdbc.properties]
+2018-11-21 10:17:39  [ main:621 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:17:39  [ main:676 ] - [ INFO ]  No TaskExecutor bean found for async annotation processing.
+2018-11-21 10:17:40  [ main:1812 ] - [ INFO ]  {dataSource-1} inited
+2018-11-21 10:17:41  [ main:2672 ] - [ INFO ]  Root WebApplicationContext: initialization completed in 2672 ms
+2018-11-21 10:17:41  [ main:2789 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization started
+2018-11-21 10:17:41  [ main:2791 ] - [ INFO ]  Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:17:41 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:17:41  [ main:2792 ] - [ INFO ]  Loading XML bean definitions from URL [file:/E:/workspace-private/ssm_simpleDemo/target/classes/spring-mvc.xml]
+2018-11-21 10:17:41  [ main:2921 ] - [ INFO ]  JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-21 10:17:41  [ main:3012 ] - [ INFO ]  Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2018-11-21 10:17:42  [ main:3527 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:17:41 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:17:42  [ main:3607 ] - [ INFO ]  Looking for @ControllerAdvice: WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 10:17:41 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:17:42  [ main:3846 ] - [ INFO ]  FrameworkServlet 'SpringMVC': initialization completed in 1057 ms

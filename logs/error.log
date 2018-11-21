@@ -1,0 +1,3 @@
+2018-11-21 10:07:58  [ Thread-2:785195 ] - [ INFO ]  Closing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Wed Nov 21 09:54:55 CST 2018]; parent: Root WebApplicationContext
+2018-11-21 10:07:58  [ Thread-2:785240 ] - [ INFO ]  Closing Root WebApplicationContext: startup date [Wed Nov 21 09:54:53 CST 2018]; root of context hierarchy
+2018-11-21 10:07:58  [ Thread-2:785249 ] - [ INFO ]  {dataSource-1} closed
