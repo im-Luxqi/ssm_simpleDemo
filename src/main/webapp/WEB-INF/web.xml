@@ -194,7 +194,7 @@
     </session-config>
 
     <!-- 指定错误404和500的处理页面 -->
-    <!--
+    <!--DispatcherServlet
     <error-page>
       <error-code>404</error-code>
       <location>/common/view/404.jsp</location>
@@ -207,7 +207,7 @@
     <!-- 欢迎页面 -->
 
     <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
     </welcome-file-list>
 
 </web-app>
